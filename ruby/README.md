@@ -5,4 +5,4 @@ The three methods found here are a part of The Odin Project.
 * The second covering making a stock picker. 
 * The last creating a method that checks to see if a substring is found within a given string.
 
-Further explanation of the problems can be found on the Projects: Ruby Building Block page(http://www.theodinproject.com/ruby-programming/building-blocks)
+ Statements of the problems can be found here: [Ruby Building Block page](http://www.theodinproject.com/ruby-programming/building-blocks)
